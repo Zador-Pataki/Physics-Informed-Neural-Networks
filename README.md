@@ -1,4 +1,5 @@
 # Physics-Informed-Neural-Networks 
+
 - [Bachelor Thesis PDF](https://github.com/Zador-Pataki/Physics-Informed-Neural-Networks/files/7711682/Physics_Informed_NN.pdf)
 - [Presentation PDF](https://github.com/Zador-Pataki/Physics-Informed-Neural-Networks/files/7719785/thesis_presentation.pdf)
 
